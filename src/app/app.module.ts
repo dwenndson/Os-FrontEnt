@@ -24,6 +24,7 @@ import { FooterComponent } from './view/components/template/footer/footer.compon
 import { NavComponent } from './view/components/template/nav/nav.component';
 import { HomeComponent } from './view/components/home/home.component';
 import { TecnicoComponent } from './view/components/tecnico/tecnico.component';
+import { TecnicoCreateComponent } from './view/components/tecnico/tecnico-create/tecnico-create.component';
 
 @NgModule({
   declarations: [
@@ -33,6 +34,7 @@ import { TecnicoComponent } from './view/components/tecnico/tecnico.component';
     NavComponent,
     HomeComponent,
     TecnicoComponent,
+    TecnicoCreateComponent,
     
   ],
   imports: [
