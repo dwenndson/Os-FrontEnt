@@ -1,0 +1,17 @@
+mat-card {
+    width: 80%;
+    height: 50%;
+    margin: 1rem auto 0 auto;
+}
+mat-card-subtitle {
+    content: 100%;
+}
+
+img {
+    max-width: 600px;
+    max-height: 180px;
+    width: auto;
+    height: auto;
+    margin: 1rem auto 0 auto;
+    align-content: flex-end;
+}
